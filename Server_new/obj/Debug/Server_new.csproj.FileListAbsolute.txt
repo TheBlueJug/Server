@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Server_new\Server_new\bin\Debug\Server_new.exe.config
+C:\Users\User\source\repos\Server_new\Server_new\bin\Debug\Server_new.exe
+C:\Users\User\source\repos\Server_new\Server_new\bin\Debug\Server_new.pdb
+C:\Users\User\source\repos\Server_new\Server_new\obj\Debug\Server_new.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Server_new\Server_new\obj\Debug\Server_new.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Server_new\Server_new\obj\Debug\Server_new.exe
+C:\Users\User\source\repos\Server_new\Server_new\obj\Debug\Server_new.pdb
